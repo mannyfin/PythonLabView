@@ -1,0 +1,65 @@
+Solving environment: ...working... done
+
+## Package Plan ##
+
+  environment location: C:\ProgramData\Anaconda3
+
+  added / updated specs: 
+    - notebook
+
+
+The following packages will be downloaded:
+
+    package                    |            build
+    ---------------------------|-----------------
+    service_identity-17.0.0    |           py36_0          18 KB
+    twisted-18.4.0             |   py36hfa6e2cd_0         5.0 MB
+    automat-0.7.0              |           py36_0          70 KB
+    pyasn1-modules-0.2.2       |           py36_0          86 KB
+    incremental-17.5.0         |   py36he5b1da3_0          25 KB
+    hyperlink-18.0.0           |           py36_0          62 KB
+    appdirs-1.4.3              |           py36_0          16 KB
+    notebook-5.6.0             |           py36_0         7.3 MB
+    zope.interface-4.5.0       |   py36hfa6e2cd_0         203 KB
+    vs2015_runtime-15.5.2      |                3         2.2 MB
+    vc-14.1                    |       h0510ff6_3           5 KB
+    pyasn1-0.4.3               |           py36_0         101 KB
+    zope-1.0                   |           py36_0           3 KB
+    pyzmq-17.0.0               |   py36hfa6e2cd_3         398 KB
+    constantly-15.1.0          |           py36_0          13 KB
+    prometheus_client-0.2.0    |           py36_0          50 KB
+    libsodium-1.0.16           |       h9d3ae62_0         585 KB
+    zeromq-4.2.5               |       he025d50_1         9.5 MB
+    ------------------------------------------------------------
+                                           Total:        25.6 MB
+
+The following NEW packages will be INSTALLED:
+
+    appdirs:           1.4.3-py36_0         
+    automat:           0.7.0-py36_0         
+    constantly:        15.1.0-py36_0        
+    hyperlink:         18.0.0-py36_0        
+    incremental:       17.5.0-py36he5b1da3_0
+    libsodium:         1.0.16-h9d3ae62_0    
+    prometheus_client: 0.2.0-py36_0         
+    pyasn1:            0.4.3-py36_0         
+    pyasn1-modules:    0.2.2-py36_0         
+    service_identity:  17.0.0-py36_0        
+    twisted:           18.4.0-py36hfa6e2cd_0
+    zeromq:            4.2.5-he025d50_1     
+    zope:              1.0-py36_0           
+    zope.interface:    4.5.0-py36hfa6e2cd_0 
+
+The following packages will be UPDATED:
+
+    notebook:          5.4.0-py36_0          --> 5.6.0-py36_0         
+    pyzmq:             16.0.3-py36he714bf5_0 --> 17.0.0-py36hfa6e2cd_3
+    vc:                14-h0510ff6_3         --> 14.1-h0510ff6_3      
+    vs2015_runtime:    14.0.25123-3          --> 15.5.2-3             
+
+Proceed ([y]/n)? 
+
+Downloading and Extracting Packages
+Preparing transaction: ...working... done
+Verifying transaction: ...working... done
+Executing transaction: ...working... done

@@ -1,0 +1,7 @@
+pandas
+jupyter
+numpy
+pyqtgraph
+matplotlib
+scipy
+
