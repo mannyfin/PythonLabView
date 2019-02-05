@@ -4,3 +4,5 @@ In-house code to perform Temperature Programmed Desorption. Synchronizes a Eurot
 The "Meat" of the code is in the TPD_Program and TPD folders. 
 
 Much of the other files were tests/fun things and can be ignored.
+
+This code was written together with A. Gilman.
